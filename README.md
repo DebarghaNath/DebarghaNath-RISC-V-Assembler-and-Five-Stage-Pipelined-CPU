@@ -86,10 +86,4 @@ It replicates real hardware behavior, including parallel instruction processing,
 This project demonstrates how **hardware logic** and **software abstraction** come together:
 
 - 🔬 Mimics how real assemblers convert human-readable code to binary  
-- 🧮 Shows how CPUs execute instructions in pipelined fashion for performance  
-- 💡 Helps students and hardware enthusiasts grasp low-level CPU internals
-
----
-
-## 📁 File Structure
-
+- 🧮 Shows how CPUs execute instructions in pipelined fashion for performance 
